@@ -226,9 +226,11 @@
 
 </div>
 <!-- /.content-wrapper -->
-<footer class="main-footer">
-  <strong>copyright &copy; 2022 <a>Diskominfo Cilacap</a></strong>
-</footer>
+<div class="box-header text-center">
+  <footer class="main-footer">
+  <strong>copyright &copy; 2022 <a class="text-danger">Diskominfo Cilacap</a></strong>
+  </footer>
+</div>
 
 <!-- Control Sidebar -->
 <aside class="control-sidebar control-sidebar-dark">
