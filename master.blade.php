@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="{{ asset('template/dist/img/logo.png') }}">
   <title>Pegawai</title>
 
   <!-- Google Font: Source Sans Pro -->
@@ -117,6 +118,8 @@
     <!-- /.sidebar -->
   </aside>
 
+  <!-- CONTENT -->
+
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
@@ -144,7 +147,7 @@
                   <p>Kinerja Pegawai</p>
                 </div>
                 <div class="icon">
-                  <i class="ionicons ion-ios-briefcase"></i>
+                  <i class="nav-icon fa fa-suitcase"></i>
                 </div>
                 <a href="#" class="small-box-footer">Selengkapnya <i class="fas fa-arrow-circle-right"></i></a>
               </div>
@@ -165,12 +168,13 @@
           <!-- ./col -->
       </div><!-- /.container-fluid -->
     </section>
-    <!-- /.content -->
+    
+    <!-- CONTENT -->
+
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2022 <a>KOMINFO</a>.</strong>
-    All rights reserved.
+    <strong>copyright &copy; 2022 <a>Diskominfo Cilacap</a></strong>
   </footer>
 
   <!-- Control Sidebar -->
